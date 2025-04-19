@@ -12,6 +12,10 @@ GraphLib is a lightweight Java library designed for graph operations and algorit
 - Bipartite graph checking
 - Graph connectivity analysis
 
+## How to use
+- Download the JAR file from [here](https://drive.google.com/file/d/1QoB8J3gbG_FUVqqC3vGNBRnkjSivggtd/view?usp=drive_link), or
+- Build the Gradle project and get the JAR file from `lib/build/libs/lib.jar`
+  
 ## Example Usage
 
 ### 1. Creating a Graph
